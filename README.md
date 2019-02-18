@@ -1,3 +1,3 @@
-# CS120
-CS120 Code Files
-(MIPS Assembly)
+# CS120 - Computer Systems I: Machine Organization
+
+The design and implementation of digital systems. Number representation and computer arithmetic. Design of a small computing system including an ALU, control unit, RAM, registers, bus system, instruction decoder, program counter, multiplexer, channels and clocking. Programmable logic arrays. Introduction to assembly language and C. Relationship of a higher-order programming language (C) to assembly language, and assembly language to machine code. Implementation of machine code in hardware. Use of computer-aided design and simulation tools. Supervised laboratory work involves digital system design and implementation, assembly language and C programming.
